@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Michelle Bettencourt</string>
+    <string name="test"> test test test </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Today</string>
+    <string name="title_dashboard">Calendar</string>
+    <string name="title_notifications">Workouts</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="happy_birthday">Michelle Bettencourt</string>
+    <string name="highlight">Enthusiastic computer scientist student interesting in UI/UX</string>
+    <string name="email">michelle_bettencourt@student.uml.edu</string>
+    <string name="phone_number">978-935-8096</string>
+    <string name="address">158 Berkeley Ave. Lowell, MA</string>
+    <string name="education">EDUCATION</string>
+    <string name="skills">SKILLS</string>
+    <string name="related_experience">RELATED EXPERIENCE</string>
+
+</resources>
+
